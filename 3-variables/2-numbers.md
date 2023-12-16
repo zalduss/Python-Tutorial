@@ -24,6 +24,10 @@ remainder = 11 % 5 # Moduling two numbers
 - Modulo Operator (%): This operator is used to find the remainder after division of one number by another.
 - Commonly used to determine if a number is even or odd.
 
+```python
+print(11 % 5) # Outputs: 1 because 11 divided by 5 leaves a remainder of 1
+print(10 % 2) # Outputs: 0 because 10 divided by 2 gives no remainder
+```
 
 
 ## Challenge

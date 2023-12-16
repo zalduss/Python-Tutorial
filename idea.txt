@@ -1,8 +1,42 @@
 
 
 
-1. Logic Operators
+
+intro, how to run,
+
+print
+
+some exposure to strings when learning how to print
 
 
+Strings immutable
+string methods (lower, upper, capitalize, replace, find)
 
-trader link
+variables
+- want to make varibale name short, simple, easy to remember, and descriptive
+
+data types
+- Strings
+- integers
+- float
+- boolean
+- list 
+- tuple
+- dict
+- set
+
+Math arithmatic
+- adding, subtracting, multiplying, dividing, modulo
+
+
+Operators
+
+
+1. if conditions
+- What is an if condition?
+- Why do we use if conditions?
+- 
+
+I will only bring my umbrella under the condition that it is raining 
+
+I will only print True under the condtion that x is greater than 5

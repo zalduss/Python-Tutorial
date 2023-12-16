@@ -3,12 +3,6 @@
 # input here
 
 
-def greater_than_10(num):
-    # your code here
+# Condition Here 👇
 
-
-
-
-# Once you think you have the correct solution run the program
-greater_than_10(number)
 
