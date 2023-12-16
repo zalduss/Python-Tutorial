@@ -45,7 +45,6 @@ print(5 <= 10)     # True or False
 print(6 == '6')    # True or False
 
 print(True == 3)   # True  or False
-
 ```
 
 Try to answer each question without running the code. Once you have your answers, run the script to check your understanding of comparison operators.
