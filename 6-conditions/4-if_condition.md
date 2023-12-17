@@ -126,4 +126,9 @@ In this example, the program checks multiple conditions and prints "Teenager" be
 
 
 
-[Next](./4-challenges.md)
+[Next](./5-challenges.md)
+
+
+if condition evaluates to True THEN to something
+
+if condtion evaluates to False THEN move to Else

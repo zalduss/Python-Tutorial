@@ -14,7 +14,7 @@ In Python, functions are defined blocks of reusable code that perform a specific
       return result
   ```
 
-- **`def` Keyword**: Used to declare a function.
+- **`def` Keyword**: Used to define a function.
 - **Function Name**: A unique identifier to name the function.
 - **Parameters**: Optional values that the function can accept to perform its task.
 - **Return Statement**: Optionally returns a value back to the caller.
@@ -28,9 +28,11 @@ In Python, functions are defined blocks of reusable code that perform a specific
 ### Example 1: Basic Function
 - **Code**:
   ```python
-  def greet():
-      return "Hello, World!"
-  print(greet())
+  name = "John"
+  greet(name)
+  def greet(name):
+    print(f"Hello, " + name + "!")
+  
   ```
 - **Explanation**:
   - `greet` is a function that returns the string "Hello, World!".
@@ -41,6 +43,7 @@ In Python, functions are defined blocks of reusable code that perform a specific
   ```python
   def add(x, y):
       return x + y
+
   print(add(5, 3))
   ```
 - **Explanation**:

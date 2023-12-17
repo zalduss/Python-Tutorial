@@ -5,3 +5,8 @@
 
 # Condition Here 👇
 
+
+print("4" == 4)
+x = 5
+x is 5
+x equals to 5

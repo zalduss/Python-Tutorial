@@ -41,7 +41,8 @@ Write your solution inside [challenge4.py](./challenge4.py)
 
 ### Challenge 5
 
-.
-- Given 2 numbers, check if num2 is less than num1 or if num1 and num2 are equal, then print True or False. 
+- 
+- Given 2 numbers, check if num2 is less than num1 or if num1 and num2 are equal, then print True or False.
+- Check 
     
 Write your solution inside [challenge5.py](./challenge5.py)

@@ -49,4 +49,4 @@ print(True == 3)   # True  or False
 
 Try to answer each question without running the code. Once you have your answers, run the script to check your understanding of comparison operators.
 
-[Next](./3-if_condition.md)
+[Next](./3-logical_operators.md.md)
