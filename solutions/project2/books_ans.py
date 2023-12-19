@@ -5,6 +5,10 @@ import pandas as pd
 # Scrape the Books to scrap website
 # Get book: title, stars, price, link, number in stock
 
+# 1. Decided what webpage to webscrape 
+# 2. Download and import 
+
+
 
 def main():
     url = "https://books.toscrape.com/catalogue/category/books_1/index.html"
