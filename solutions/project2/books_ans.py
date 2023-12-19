@@ -100,7 +100,7 @@ def data_to_csv(books_data):
     df = pd.DataFrame(books_data)
 
     # Save the DataFrame to a CSV file
-    df.to_csv("books.csv", index=False)
+    df.to_csv("books.csv", index=True)
 
 
 if __name__ == "__main__":
